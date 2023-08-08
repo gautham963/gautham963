@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautham963
-- 👀 I’m interested in Java Development 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Machine/Data Learning 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me gjain0963@gmail.com
 
